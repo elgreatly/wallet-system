@@ -20,6 +20,7 @@ $ npm run typeorm:run
 ```bash
 $ npm run start
 ```
+7. install ngrok package to run the service on it to be able to confirm the transactions
 
 ## Running APP
 
@@ -47,7 +48,7 @@ body:
 ```bash
 {
     "name": "test one",
-    "phoneNumber": "+201100084331",
+    "phoneNumber": "+201122245223",
     "password": "123456"
 }
 ```
